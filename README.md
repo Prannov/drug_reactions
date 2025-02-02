@@ -1,5 +1,5 @@
 
-# Drug Debate Chatbot
+# Drug Debate Bot
 
 ## Overview
 
