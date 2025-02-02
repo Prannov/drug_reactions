@@ -41,6 +41,8 @@ python DrugAwaRE.ipynb
 
 or, if using **Google Colab**, run the script and access the chatbot via the generated link.
 
+![image info](images/interface.png)
+
 ## Why This Matters?
 
 - **Empowers Patients:** Provides critical insights into medication effects.
