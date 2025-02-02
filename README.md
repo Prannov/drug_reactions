@@ -41,7 +41,7 @@ python DrugAwaRE.ipynb
 
 or, if using **Google Colab**, run the script and access the chatbot via the generated link.
 
-![image info](images/interface.png)
+![image info](images/Interface.png)
 
 ## Why This Matters?
 
