@@ -3,7 +3,7 @@
 
 ## Overview
 
-The **Drug Debate Chatbot** is an AI-powered tool designed to enhance **patient awareness** and **safety** by simulating a structured debate between two AI models on the effects of prescribed drugs. This chatbot helps patients understand both the **benefits** and **potential risks** of a medication, enabling **informed decision-making** in consultation with their healthcare provider.
+The **Drug Debate Bot** is an AI-powered tool designed to enhance **patient awareness** and **safety** by simulating a structured debate between two AI models on the effects of prescribed drugs. This chatbot helps patients understand both the **benefits** and **potential risks** of a medication, enabling **informed decision-making** in consultation with their healthcare provider.
 
 ## Key Features
 
